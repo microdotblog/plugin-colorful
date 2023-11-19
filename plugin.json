@@ -1,0 +1,6 @@
+{
+	"version": "1.0",
+	"title": "Colorful",
+	"description": "Customize basic colors for your blog.",
+	"includes": [ "colorful.html" ]
+}
